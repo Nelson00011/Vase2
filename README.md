@@ -1,9 +1,9 @@
-<h1 align="center">projectsFULLSTACK</h1>
+<h1 align="center">Vase2</h1>
 
 `main image`
 
 ## Description:
-Outline for general FULLSTACK DEVELOPMENT PROJECTs
+Outline for general FULLSTACK DEVELOPMENT PROJECTs. MERN basic application for fun practice and Vase building. The Expression *One Vase A day will teach you more than spending hours trying to perfectly make one vase.* 
 
 ## Technology Stack
 - **Frontend/Client:** React.js, HTML5, CSS, framework, etc.
@@ -129,5 +129,7 @@ backend
 frontend
 images
 screenShots [contains video link]
+---
+Include Trouble Shooting with Node.js and NPM in github for documentation. 
 
 -->
