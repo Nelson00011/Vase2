@@ -99,7 +99,9 @@ Connect with me on <a href="https://github.com/oakHalo">Oakhalo.dev</a>
 - `Tech used and links associated`
 - `Tech used and links associated`
 
-`<examples below>`
+- **LangChain** for large language models (LLM) [here](https://www.langchain.com/)
+    - Retrieval Augmented Generation (RAG) [here](https://python.langchain.com/docs/tutorials/rag/)
+    - LangChain, LangGraph, and LangSmith serve distinct but complementary roles in the development and deployment of Large Language Model (LLM) applications
 - **PostMan** for API Tests [here](https://www.postman.com/)
     - jsonwebtoken / [jwt](https://jwt.io/) for Authentification & install [here](https://www.npmjs.com/package/jsonwebtoken)
     - jwt Debugger [here](https://jwt.io/#debugger-io)
@@ -131,6 +133,6 @@ images
 screenShots [contains video link]
 troubleShooting
 ---
-Include Trouble Shooting with Node.js and NPM in github for documentation. 
+
 
 -->
