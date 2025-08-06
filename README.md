@@ -3,7 +3,7 @@
 `main image`
 
 ## Description:
-Outline for general FULLSTACK DEVELOPMENT PROJECTs. Basic application for fun practice and Vase building. The Expression *One Vase A day will teach you more than spending hours trying to perfectly make one vase.* 
+Study for Language Learning Models (LLM). Basic application for fun practice and Vase building. The Expression *One Vase A day will teach you more than spending hours trying to perfectly make one vase.* 
 
 ## Technology Stack
 - **Frontend/Client:** React.js, HTML5, CSS, framework, etc.
@@ -102,6 +102,11 @@ Connect with me on <a href="https://github.com/oakHalo">Oakhalo.dev</a>
 - **LangChain** for large language models (LLM) [here](https://www.langchain.com/)
     - Retrieval Augmented Generation (RAG) [here](https://python.langchain.com/docs/tutorials/rag/)
     - LangChain, LangGraph, and LangSmith serve distinct but complementary roles in the development and deployment of Large Language Model (LLM) applications
+    - Supabase documents [here](https://js.langchain.com/docs/integrations/vectorstores/supabase/)
+- **OpenAI** [here](https://openai.com/)
+- **Supabase** [here](https://supabase.com/)
+    - LangChain documents [here](https://supabase.com/docs/guides/ai/langchain?queryGroups=database-method&database-method=dashboard)
+    - OpenAI embeddings documents [here](https://supabase.com/blog/openai-embeddings-postgres-vector)
 - **PostMan** for API Tests [here](https://www.postman.com/)
     - jsonwebtoken / [jwt](https://jwt.io/) for Authentification & install [here](https://www.npmjs.com/package/jsonwebtoken)
     - jwt Debugger [here](https://jwt.io/#debugger-io)
@@ -133,6 +138,6 @@ images
 screenShots [contains video link]
 troubleShooting
 ---
-
+https://www.youtube.com/watch?v=HSZ_uaif57o
 
 -->
