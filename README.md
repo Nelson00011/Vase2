@@ -3,7 +3,7 @@
 `main image`
 
 ## Description:
-Outline for general FULLSTACK DEVELOPMENT PROJECTs. MERN basic application for fun practice and Vase building. The Expression *One Vase A day will teach you more than spending hours trying to perfectly make one vase.* 
+Outline for general FULLSTACK DEVELOPMENT PROJECTs. Basic application for fun practice and Vase building. The Expression *One Vase A day will teach you more than spending hours trying to perfectly make one vase.* 
 
 ## Technology Stack
 - **Frontend/Client:** React.js, HTML5, CSS, framework, etc.
@@ -129,6 +129,7 @@ backend
 frontend
 images
 screenShots [contains video link]
+troubleShooting
 ---
 Include Trouble Shooting with Node.js and NPM in github for documentation. 
 

@@ -1,0 +1,10 @@
+Git install for new computers instructions: 
+https://www.youtube.com/watch?v=3Tsaxxv9sls
+
+Git install website for new computers: 
+https://git-scm.com/downloads/win
+--
+This window will appear to confirm Git was successfully loaded, please remember to set up a GitHub account separately.
+
+
+Must restart VScode after this is complete in order for it to function (fx). 

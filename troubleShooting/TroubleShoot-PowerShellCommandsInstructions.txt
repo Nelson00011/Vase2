@@ -1,0 +1,18 @@
+The error "File C:\Program Files\nodejs\npm.ps1 cannot be loaded because running scripts is disabled on this system" indicates that the PowerShell execution policy is preventing the execution of scripts, including the npm.ps1 script used by Node.js and npm.
+To resolve this, the PowerShell execution policy needs to be modified. This can be done by following these steps:
+Open PowerShell as Administrator:
+.
+Search for "PowerShell" in the Start menu, right-click on "Windows PowerShell", and select "Run as administrator".
+Change the execution policy:
+.
+In the elevated PowerShell window, type the following command and press Enter:
+Code
+
+    Set-ExecutionPolicy RemoteSigned
+
+Alternatively, for broader script execution, Set-ExecutionPolicy Unrestricted can be used, though RemoteSigned is generally recommended for security.
+Confirm the change: When prompted, type Y and press Enter to confirm the change to the execution policy.
+After completing these steps, the npm.ps1 script should be able to load and npm commands should function correctly.
+
+-- 
+Must restart VScode after this is complete in order for it to function (fx). 
