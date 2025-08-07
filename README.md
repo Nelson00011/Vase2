@@ -33,15 +33,11 @@ Study for Language Learning Models (LLM). Basic application for fun practice and
 
 - Initial package.json & install dependenies(localhost:3000):
     - Must be `cd`'d into frontend/client for install
-    - MUI, `react-router-dom`, redux, formik, etc... (see resources)
+    - langchain, etc... (see resources)
 ```
-> npx create-react-app <project name>
-> cd <project name>
-> npm install @mui/icons-material @mui/material @emotion/styled @emotion/react
-> npm install --save react-router-dom
-> npm install react-redux @reduxjs/toolkit
-> npm install formik yup dotenv react-responsive-carousel
-> npm install --save @stripe/react-stripe-js @stripe/stripe-js
+> mkdir frontend
+> cd frontend
+> npm install langchain @langchain/core
 ```
 - Test front-end once pages are generated (ctrl-c to exit):
 ```
@@ -96,17 +92,20 @@ Connect with me on <a href="https://github.com/oakHalo">Oakhalo.dev</a>
 
 ## Resources:
 
-- `Tech used and links associated`
-- `Tech used and links associated`
-
 - **LangChain** for large language models (LLM) [here](https://www.langchain.com/)
     - Retrieval Augmented Generation (RAG) [here](https://python.langchain.com/docs/tutorials/rag/)
     - LangChain, LangGraph, and LangSmith serve distinct but complementary roles in the development and deployment of Large Language Model (LLM) applications
     - Supabase documents [here](https://js.langchain.com/docs/integrations/vectorstores/supabase/)
+    - Installation [here](https://js.langchain.com/docs/how_to/installation/)
 - **OpenAI** [here](https://openai.com/)
 - **Supabase** [here](https://supabase.com/)
     - LangChain documents [here](https://supabase.com/docs/guides/ai/langchain?queryGroups=database-method&database-method=dashboard)
     - OpenAI embeddings documents [here](https://supabase.com/blog/openai-embeddings-postgres-vector)
+
+- **Scrimba** [here](https://scrimba.com/home)
+    - Scrimba home page [here](https://scrimba.com/learn-langchainjs-c02t)
+    - Test `.txt` file [here]()
+
 - **PostMan** for API Tests [here](https://www.postman.com/)
     - jsonwebtoken / [jwt](https://jwt.io/) for Authentification & install [here](https://www.npmjs.com/package/jsonwebtoken)
     - jwt Debugger [here](https://jwt.io/#debugger-io)
