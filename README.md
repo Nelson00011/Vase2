@@ -96,11 +96,19 @@ Connect with me on <a href="https://github.com/oakHalo">Oakhalo.dev</a>
     - Retrieval Augmented Generation (RAG) [here](https://python.langchain.com/docs/tutorials/rag/)
     - LangChain, LangGraph, and LangSmith serve distinct but complementary roles in the development and deployment of Large Language Model (LLM) applications
     - Supabase documents [here](https://js.langchain.com/docs/integrations/vectorstores/supabase/)
-    - Installation [here](https://js.langchain.com/docs/how_to/installation/)
+    - Installation [here](https://js.langchain.com/docs/how_to/installation/) that can be confirmed with below command
+    ```
+    > npm list
+    ```
+
 - **OpenAI** [here](https://openai.com/)
 - **Supabase** [here](https://supabase.com/)
     - LangChain documents [here](https://supabase.com/docs/guides/ai/langchain?queryGroups=database-method&database-method=dashboard)
     - OpenAI embeddings documents [here](https://supabase.com/blog/openai-embeddings-postgres-vector)
+    - Installation [here](https://www.npmjs.com/package/@supabase/supabase-js) that can be confirmed with below command
+    ```
+    > npm list
+    ```
 
 - **Scrimba** [here](https://scrimba.com/home)
     - Scrimba home page [here](https://scrimba.com/learn-langchainjs-c02t)
